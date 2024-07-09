@@ -6,7 +6,7 @@ Wenkui Yang,
 Zhida Zhang, 
 [Xiaoqiang Zhou](https://scholar.google.com/citations?hl=en&user=Z2BTkNIAAAAJ),
 [Junxian Duan](https://scholar.google.com/citations?hl=en&user=Ar_k4v0AAAAJ), 
-[Jie cao](https://scholar.google.com/citations?hl=en&user=lPLM5oMAAAAJ)
+[Jie Cao](https://scholar.google.com/citations?hl=en&user=lPLM5oMAAAAJ)
 
 ![Teaser Image](docs/example1.png "Teaser")
 
