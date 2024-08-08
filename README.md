@@ -3,7 +3,7 @@ Official repository for TikTok-DeepFake (TT-DF). TikTok-DeepFake (TT-DF) is a pi
 
 TT-DF: A Large-Scale Diffusion-Based Dataset and Benchmark for Human Body Forgery Detection
 
-Wenkui Yang, 
+[Wenkui Yang]((https://scholar.google.com/citations?hl=en&user=neqd5X0AAAAJ),
 Zhida Zhang, 
 [Xiaoqiang Zhou](https://scholar.google.com/citations?hl=en&user=Z2BTkNIAAAAJ),
 [Junxian Duan](https://scholar.google.com/citations?hl=en&user=Ar_k4v0AAAAJ), 
